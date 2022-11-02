@@ -8,7 +8,7 @@ import java.util.List;
  *
  * Main class that creates and launches the LogSyncViewer
  *
- * @author Ryan Antkowiak (antkowiak@gmail.com)
+ * @author Ryan Antkowiak 
  *
  */
 public class Main

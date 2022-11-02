@@ -12,7 +12,7 @@ import javax.swing.ListCellRenderer;
  * Renderer for the log viewer list items. Determines how each list item shoudl
  * be rendered.
  *
- * @author Ryan Antkowiak (antkowiak@gmail.com)
+ * @author Ryan Antkowiak 
  *
  */
 public class LogSyncListItemRenderer extends JLabel implements ListCellRenderer<LogSyncListItem>

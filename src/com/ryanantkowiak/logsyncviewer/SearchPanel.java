@@ -14,7 +14,7 @@ import javax.swing.JTextField;
 /**
  * This class defines the search panel at the top of the log viewer window
  *
- * @author Ryan Antkowiak (antkowiak@gmail.com)
+ * @author Ryan Antkowiak 
  *
  */
 public class SearchPanel extends JPanel implements ActionListener

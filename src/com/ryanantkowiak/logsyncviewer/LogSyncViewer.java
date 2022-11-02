@@ -36,7 +36,7 @@ import javax.swing.KeyStroke;
  * view multiple log files in a single window, sorted by a time-stamp that
  * precedes each line. Files are color coded for ease of viewing.
  *
- * @author Ryan Antkowiak (antkowiak@gmail.com)
+ * @author Ryan Antkowiak 
  *
  */
 public class LogSyncViewer implements ActionListener, ItemListener

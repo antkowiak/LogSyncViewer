@@ -10,7 +10,7 @@ import java.text.SimpleDateFormat;
  * particular file. This class also caches the time-stamp of the log entry as a
  * "long" for optimized comparisons against other log entries.
  *
- * @author Ryan Antkowiak (antkowiak@gmail.com)
+ * @author Ryan Antkowiak 
  *
  */
 public class LogSyncListItem implements Comparable<LogSyncListItem>

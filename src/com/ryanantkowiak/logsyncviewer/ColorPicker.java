@@ -9,7 +9,7 @@ import java.util.Map;
  * that the colors are chosen, and caches specific colors for a given log file
  * name
  *
- * @author Ryan Antkowiak (antkowiak@gmail.com)
+ * @author Ryan Antkowiak 
  *
  */
 public class ColorPicker

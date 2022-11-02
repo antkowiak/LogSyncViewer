@@ -10,7 +10,7 @@ import javax.swing.DefaultListModel;
 /**
  * Data model for the individual log entries
  *
- * @author Ryan Antkowiak (antkowiak@gmail.com)
+ * @author Ryan Antkowiak 
  *
  */
 public class LogSyncListModel extends DefaultListModel<LogSyncListItem>
